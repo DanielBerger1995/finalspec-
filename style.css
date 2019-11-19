@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.intro {
+    height: 100vh;
+}
+
+.intro video {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.intro h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    color: white;
+    font-family: 'Bodoni';
+}
+
+section {
+    height: 100vh;
+    color: white;
+    background-color: black;
+}
+
+section h1 {
+    padding-top: 5%;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+    color: white;
+}
+
+section p {
+    text-align: left;
+    font-size: 20px;
+    width: 25vw;
+    font-family: 'Helvetica';
+    line-height: 3.5vh;
+    position: absolute;
+    left: 20%;
+    margin-top: 12%;
+}
+
+.oliverimg{
+    max-width: 60%;
+    margin-left: 40%;
+    padding-top: 5%;
+}
