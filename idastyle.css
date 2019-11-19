@@ -76,6 +76,7 @@ a {
 
 .art_head {
     font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 10px;
 }
 
 .art_img {
@@ -91,6 +92,7 @@ a {
     margin: 0;
     font-family: 'Helvetica', sans-serif;
     color: white;
+
 }
 
 
@@ -128,6 +130,7 @@ a {
 
 
 .title {
+   padding-top: 10px;
     font-family: 'Ubuntu', sans-serif;
     position: absolute;
     margin: 0;
@@ -145,6 +148,7 @@ a {
 }
 
 .title2 {
+    padding-top: 10px;
      font-family: 'Ubuntu', sans-serif;
     position: absolute;
     margin: 0;

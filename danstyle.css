@@ -241,12 +241,12 @@ body {
 
     85% {
         opacity: 1;
-        bottom: 55%;
+        bottom: 45%;
 
     }
      100% {
         opacity: 1;
-        bottom: 51%;
+        bottom: 41%;
 
 
     }
@@ -370,7 +370,7 @@ body {
     top: 600px;
     width: 100%;
      margin: 0;
-    height: 10000px;
+    height: 9200px;
     background-image: linear-gradient(180deg, #0f2240 0%, #D3D3E2 100%);
     z-index: 10;
 }
@@ -401,7 +401,7 @@ body {
 /* The progress bar (scroll indicator) */
 .progress-bar {
   height: 8px;
-  background: #4caf50;
+  background: red;
   width: 0%;
 }
 
@@ -421,7 +421,7 @@ body {
 /* Bad ANIMATIONS */
 
 .all {
-    height: 100%;
+
     font-family: 'Bebas Neue', cursive;
 }
 .notodo {
@@ -558,7 +558,7 @@ body {
 
 .motion {
     position: absolute;
-    top: 250px;
+    top: 270px;
     left: 40.3%;
 
 
@@ -780,7 +780,7 @@ body {
 }
 .identity {
       position: absolute;
-    top: 94px;
+    top: 112px;
     left: 53%;
 
 
@@ -869,7 +869,7 @@ body {
 .less {
     position: absolute;
     width: 37%;
-    top: 350px;
+    top: 360px;
     left: 410px;
     font-size: 18px;
     color: white;
@@ -930,7 +930,7 @@ body {
 
 .carcontainer p {
     position: absolute;
-     top: 1270px;
+     top: 1390px;
     left: -695vw;
     font-size: 120px;
     color: white;
